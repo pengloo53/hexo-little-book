@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [前言](README.md)
 * [基本介绍](chapter1.md)
    * [1.1 安装环境](chapter1/1. 安装环境.md)
    * [1.2 基本命令](chapter1/2. 基本命令.md)
@@ -33,3 +33,4 @@
    * [4.2 插件](chapter4/2 插件.md)
    * [4.3 脚本示例](chapter4/3 脚本示例.md)
    * [4.4 插件示例](chapter4/4 插件示例.md)
+* [致谢](thanks.md)

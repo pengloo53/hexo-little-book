@@ -1,34 +1,36 @@
-# Hexo小书
-## 初心
-> 2014年从学校毕业  
-离开校园  
-走向社会  
-走向工作岗位  
-少了一些闲暇时光  
-多了一份工作责任  
+# Hexo 小书
 
-> 大块的时间经过社会的洗礼  
-变得零零散散  
-思想也变得断断续续  
-总想找个地方拼接起来  
-
-> 在茫茫无际的互联网中寻找  
-寻找一块属于自己的栖息地  
-路过CSDN  
-路过OSC  
-在WordPress停留过  
-折腾过Jekll  
-最终停止在Hexo的前面  
-
-> 搭起一间简洁大方的房间  
-将断断续续的思想不断放入其中  
-或生活  
-或学习  
-或技术  
-每一份都代表着自己走过的路程  
-也许无聊  
-也许无用  
-但这些都是珍贵的回忆  
-
-> 就如同此小书一样  
-都是点点滴滴走过的时光
+* [前言](introduction.md)
+* [基本介绍](chapter1.md)
+   * [1.1 安装环境](chapter1/1. 安装环境.md)
+   * [1.2 基本命令](chapter1/2. 基本命令.md)
+   * [1.3 初始化](chapter1/3. 初始化.md)
+   * [1.4 Markdown书写](chapter1/4. Markdown书写.md)
+   * [1.5 文章Front-matter](chapter1/5. 文章Front-matter.md)
+   * [1.6 第一篇文章](chapter1/6. 第一篇文章.md)
+   * [1.7 部署到Web服务器](chapter1/7. 部署到Web服务器.md)
+   * [1.8 托管到Github或Coding](chapter1/8. 托管到Github或Coding.md)
+* [自定义主题](chapter2.md)
+   * [2.1 修改标题](chapter2/1 修改标题.md)
+   * [2.2 去Google化](chapter2/2 去Google化.md)
+   * [2.3 替换评论服务](chapter2/3 替换评论服务.md)
+   * [2.4 添加百度统计](chapter2/4 添加百度统计.md)
+   * [2.5 新浪微博挂件](chapter2/5 新浪微博挂件.md)
+   * [2.6 微信二维码挂件](chapter2/6 微信二维码挂件.md)
+   * [2.7 添加文章目录](chapter2/7 添加文章目录.md)
+   * [2.8 添加回到顶部按钮](chapter2/8 添加回到顶部按钮.md)
+   * [2.9 集成推荐模块](chapter2/9 添加推荐模块.md)
+   * [2.10 添加计数器](chapter2/9.1 添加计数器.md)
+   * [2.11 添加日历云挂件](chapter2/9.2 添加日历云挂件.md)
+   * [2.12 添加站内搜索](chapter2/9.3 添加站内搜索.md)
+   * [2.13 国际化](chapter2/9.4 国际化.md)
+* [创建主题](chapter3.md)
+   * [3.1 了解主题目录](chapter3/1 了解主题目录.md)
+   * [3.2 了解布局](chapter3/2 了解布局.md)
+   * [3.3 选择技术](chapter3/3 选择技术.md)
+* [插件](chapter4.md)
+   * [4.1 脚本](chapter4/1 脚本.md)
+   * [4.2 插件](chapter4/2 插件.md)
+   * [4.3 脚本示例](chapter4/3 脚本示例.md)
+   * [4.4 插件示例](chapter4/4 插件示例.md)
+* [致谢](thanks.md)

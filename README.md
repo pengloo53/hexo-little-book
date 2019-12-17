@@ -1,12 +1,12 @@
 ## Hexo 小书
 
-之前折腾过 Hexo，
+之前折腾过 Hexo，  
 
-花了一些时间，
+花了一些时间，  
 
-改了一个 Hexo 主题：[Hexo-theme-light_cn](https://github.com/pengloo53/Hexo-theme-light_cn)，
+改了一个 Hexo 主题：[Hexo-theme-light_cn](https://github.com/pengloo53/Hexo-theme-light_cn)，  
 
-写了一些关于 Hexo 的文章，
+写了一些关于 Hexo 的文章，  
 
 于是就有了这本**至今未完成**的小书。
 

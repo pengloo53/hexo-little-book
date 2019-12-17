@@ -3,9 +3,11 @@
 之前折腾过 Hexo，  
 花了一些时间，  
 改了一个 Hexo 主题：[Hexo-theme-light_cn](https://github.com/pengloo53/Hexo-theme-light_cn)，  
+获得一些人的喜欢，  
+创建了一个 Hexo 的简书专题：[Hexo 简书](https://www.jianshu.com/c/7fafdc0abb5b)
 写了一些关于 Hexo 的文章，  
-于是就有了这本**至今未完成**的小书。
-
+于是，就有了这本的小书，  
+只是至今尚未完成。
 
 
 ### 关于我
